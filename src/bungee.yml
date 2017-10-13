@@ -1,0 +1,5 @@
+name: UltimateDiscordAPIExample
+version: 1.0
+author: Schlaubi
+depend: [UltimateDiscord]
+main: net.schlaubi.ultimatediscordapiexample.bungee.Main
